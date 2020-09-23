@@ -1,3 +1,7 @@
+/**
+ * @author Pranshu Aggarwal
+ * @problem https://hack.codingblocks.com/app/practice/6/1040/problem
+ */
 package gcd;
 
 import java.math.BigInteger;
