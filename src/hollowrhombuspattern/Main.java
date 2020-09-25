@@ -15,5 +15,6 @@ public class Main {
 			for (int col = 1; col <= end; col++) if (col >= start && ((row == 1 || row == n) || (col == start || col == end))) System.out.print("*"); else System.out.print(" ");
 			System.out.println();
 		}
+		sc.close();
 	}
 }

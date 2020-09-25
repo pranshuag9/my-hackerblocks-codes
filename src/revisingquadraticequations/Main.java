@@ -11,6 +11,7 @@ public class Main {
     public static void main(String args[]) throws Exception {
         BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
         String[] inputArr = sc.readLine().split(" ");
+        sc.close();
         double a = Double.parseDouble(inputArr[0]);
         double b = Double.parseDouble(inputArr[1]);
         double c = Double.parseDouble(inputArr[2]);

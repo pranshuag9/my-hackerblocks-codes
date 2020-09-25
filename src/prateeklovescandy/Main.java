@@ -33,5 +33,6 @@ public class Main {
 			int n = Integer.parseInt(sc.readLine());
 			System.out.println(list.get(n));
 		}
+		sc.close();
 	}
 }
