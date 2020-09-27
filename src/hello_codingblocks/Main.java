@@ -2,7 +2,7 @@
  * @author Pranshu Aggarwal
  * @problem https://hack.codingblocks.com/app/practice/1/87/problem
  */
-package hellocodingblocks;
+package hello_codingblocks;
 
 public class Main {
 

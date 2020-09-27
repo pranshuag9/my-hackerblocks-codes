@@ -2,7 +2,7 @@
  * @author Pranshu Aggarwal
  * @problem https://hack.codingblocks.com/app/practice/1/1320/problem
  */
-package revisingquadraticequations;
+package revising_quadratic_equations;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

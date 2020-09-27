@@ -2,7 +2,7 @@
  * @author Pranshu Aggarwal
  * @problem https://hack.codingblocks.com/app/practice/1/919/problem
  */
-package checkprime;
+package check_prime;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

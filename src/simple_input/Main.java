@@ -2,7 +2,7 @@
  * @author Pranshu Aggarwal
  * @problem https://hack.codingblocks.com/app/practice/1/206/problem
  */
-package simpleinput;
+package simple_input;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -2,7 +2,7 @@
  * @author Pranshu Aggarwal
  * @problem https://hack.codingblocks.com/app/practice/1/219/problem
  */
-package vonneumanlovesbinary;
+package von_neuman_loves_binary;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 public class Main {

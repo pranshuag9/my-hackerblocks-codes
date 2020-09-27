@@ -2,7 +2,7 @@
  * @author Pranshu Aggarwal
  * @problem https://hack.codingblocks.com/app/practice/1/929/problem
  */
-package manmohanlovespattern1;
+package manmohan_loves_pattern1;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

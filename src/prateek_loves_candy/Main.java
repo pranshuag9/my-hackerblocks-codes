@@ -2,7 +2,7 @@
  * @author Pranshu Aggarwal
  * @problem https://hack.codingblocks.com/app/practice/1/67/problem
  */
-package prateeklovescandy;
+package prateek_loves_candy;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

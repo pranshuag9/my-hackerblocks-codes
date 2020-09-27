@@ -2,7 +2,7 @@
  * @author Pranshu Aggarwal
  * @problem https://hack.codingblocks.com/app/practice/1/231/problem
  */
-package hollowrhombuspattern;
+package hollow_rhombus_pattern;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
