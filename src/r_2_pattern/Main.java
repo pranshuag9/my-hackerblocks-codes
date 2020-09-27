@@ -23,6 +23,7 @@ public class Main {
 		int n = Integer.parseInt(sc.readLine().trim());
 		r2_pattern_iterative(n);
 //		r2_pattern_recursive(n);
+		sc.close();
 	}
 
 }
