@@ -38,5 +38,6 @@ public class Main {
             int decimal = binary_to_decimal(binary);
             System.out.println(decimal);
         }
+        sc.close();
     }
 }
