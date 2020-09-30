@@ -24,6 +24,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
     	BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(sc.readLine().trim());
+        sc.close();
         ArrayList<Integer> list = new ArrayList<>();
         while(n > 0){
             int rem = n % 10;
