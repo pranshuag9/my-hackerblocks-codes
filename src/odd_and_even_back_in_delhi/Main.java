@@ -22,5 +22,6 @@ public class Main {
 		BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
 		int testcases = Integer.parseInt(sc.readLine().trim());
         for(int testcase = 0;testcase < testcases; testcase++) System.out.println(odd_and_Even_back_in_delhi(Integer.parseInt(sc.readLine().trim()))?"Yes":"No");
+        sc.close();
 	}
 }
