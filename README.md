@@ -1,1 +1,1 @@
-[Hackerblocks] This repository contains solution codes for problems given on hackerblocks platform at www.hackerblocks.com. This repository is open to contributions by others for new problem apart of problems given here OR optimizing the code given here for Distributed, Parallel or Concurrent Computing to optimize the time complexity.
+[Hackerblocks] This repository contains solution codes for problems given on hackerblocks platform at www.hackerblocks.com.
