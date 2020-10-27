@@ -27,5 +27,6 @@ public class Main {
 		BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
 		int n = Integer.parseInt(sc.readLine().trim());
         decimal_to_octal(n);
+        sc.close();
 	}
 }
